@@ -1,48 +1,50 @@
-[
-    {
-        "name": "FAQ",
-        "items": [
-            {
-                "q": "What is move by move validation?",
-                "a": "Move by move validation will check each move you make and compare it to the solution. If it's wrong, the box turns red.",
-                "path": "Settings -> Move by Move Validation",
-                "tags": ["move by move", "help", "valid", "red"]
-            },
-            {
-                "q": "Grr how can you call it Not Evil when you need to pay for unlimited games 🦁",
-                "a": "An app takes a lot of time and energy to build and maintain. I wanted to make the app sustainable without inconveniencing too many users. I think the price of unlimited games is more than reasonable given that it's less than the price of a coffee in most places and is just a one-time purchase for unlimited use.",
-                "path": "-",
-                "tags": ["money", "purchase", "evil"]
-            },
-            {
-                "q": "When's the app going to get translated into other languages?",
-                "a": "Translation is something I'm getting into, if you want to help translate Not Evil Sudoku to your language, please contact me at sudoku@notevil.app",
-                "path": "Settings -> Translation",
-                "tags": ["language", "country", "translation"]
-            },
-            {
-                "q": "Have another question or feature request?",
-                "a": "Shoot me an email: sudoku@notevil.app or tweet @NotEvilSudoku.",
-                "path": " Settings -> Send Feedback",
-                "tags": ["feature", "feedback", "bug"]
-            }
-        ]
-    },
-    {
-        "name": "Purchases",
-        "items": [
-            {
-                "q": "I bought a purchase but I can't see it in the app. What's going on?",
-                "a": "The app refreshes your purchases every time you restart so restarting the app should fix most issues. To restart the app simply swipe up halfway (or tap home button twice) and remove it from your app history. Then open the app.",
-                "path": "Settings -> Purchases",
-                "tags": ["free", "paid", "purchase", "restore", "money"]
-            },
-            {
-                "q": "How is the pricing for different regions decided?",
-                "a": "I set the price for US, and Apple sets the rest (I have no control over it.)",
-                "path": "",
-                "tags": ["price", "locale", "region", "inflation", "country"]
-            }
-        ]
-    }
-]
+{
+    [
+        {
+            "name": "FAQ",
+            "items": [
+                {
+                    "q": "What is move by move validation?",
+                    "a": "Move by move validation will check each move you make and compare it to the solution. If it's wrong, the box turns red.",
+                    "path": "Settings -> Move by Move Validation",
+                    "tags": ["move by move", "help", "valid", "red"]
+                },
+                {
+                    "q": "Grr how can you call it Not Evil when you need to pay for unlimited games 🦁",
+                    "a": "An app takes a lot of time and energy to build and maintain. I wanted to make the app sustainable without inconveniencing too many users. I think the price of unlimited games is more than reasonable given that it's less than the price of a coffee in most places and is just a one-time purchase for unlimited use.",
+                    "path": "-",
+                    "tags": ["money", "purchase", "evil"]
+                },
+                {
+                    "q": "When's the app going to get translated into other languages?",
+                    "a": "Translation is something I'm getting into, if you want to help translate Not Evil Sudoku to your language, please contact me at sudoku@notevil.app",
+                    "path": "Settings -> Translation",
+                    "tags": ["language", "country", "translation"]
+                },
+                {
+                    "q": "Have another question or feature request?",
+                    "a": "Shoot me an email: sudoku@notevil.app or tweet @NotEvilSudoku.",
+                    "path": " Settings -> Send Feedback",
+                    "tags": ["feature", "feedback", "bug"]
+                }
+            ]
+        },
+        {
+            "name": "Purchases",
+            "items": [
+                {
+                    "q": "I bought a purchase but I can't see it in the app. What's going on?",
+                    "a": "The app refreshes your purchases every time you restart so restarting the app should fix most issues. To restart the app simply swipe up halfway (or tap home button twice) and remove it from your app history. Then open the app.",
+                    "path": "Settings -> Purchases",
+                    "tags": ["free", "paid", "purchase", "restore", "money"]
+                },
+                {
+                    "q": "How is the pricing for different regions decided?",
+                    "a": "I set the price for US, and Apple sets the rest (I have no control over it.)",
+                    "path": "",
+                    "tags": ["price", "locale", "region", "inflation", "country"]
+                }
+            ]
+        }
+    ]
+}
