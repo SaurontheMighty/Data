@@ -11,7 +11,7 @@
                 },
                 {
                     "q": "Grr how can you call it Not Evil when you need to pay for unlimited games 🦁",
-                    "a": "An app takes a lot of time and energy to build and maintain. I wanted to make the app sustainable without inconveniencing too many users. I think the price of unlimited games is more than reasonable given that it's less than the price of a coffee in most places and is just a one-time purchase for unlimited use.",
+                    "a": "An app takes a ton of time and energy to build and maintain. I've spent 200+ hours of my free time on this app. Unlimited games is only a small one-time purchase and helps support development of the app.",
                     "path": "-",
                     "tags": ["money", "purchase", "evil"]
                 },
@@ -40,7 +40,7 @@
                 },
                 {
                     "q": "How is the pricing for different regions decided?",
-                    "a": "I set the price for US, and Apple sets the rest (I have no control over it.)",
+                    "a": "I set the price for the United States, and Apple sets the prices for the rest of the world based on the US price.",
                     "path": "",
                     "tags": ["price", "locale", "region", "inflation", "country"]
                 }
