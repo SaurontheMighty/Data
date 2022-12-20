@@ -4,6 +4,12 @@
             "name": "FAQ",
             "items": [
                 {
+                    "q": "Four notes is not enough, I want nine notes!",
+                    "a": "Check out 'More Settings':",
+                    "path": "Settings -> Game Settings -> More Settings",
+                    "tags": ["9", "notes", "nine", "4"]
+                },
+                {
                     "q": "What is move by move validation?",
                     "a": "Move by move validation will check each move you make and compare it to the solution. If it's wrong, the box turns red.",
                     "path": "Settings -> Move by Move Validation",
@@ -16,8 +22,14 @@
                     "tags": ["money", "purchase", "evil"]
                 },
                 {
+                    "q": "Can I turn off the little vibrations when I tap things in the game?",
+                    "a": "Check out 'More Settings':",
+                    "path": "Settings -> Game Settings -> More Settings",
+                    "tags": ["haptic feedback", "haptic", "vibrations", "vibration", "touch"]
+                },
+                {
                     "q": "When's the app going to get translated into other languages?",
-                    "a": "Translation is something I'm getting into, if you want to help translate Not Evil Sudoku to your language, please contact me at sudoku@notevil.app",
+                    "a": "If you would like to help translate Not Evil Sudoku to your language, please contact me at sudoku@notevil.app",
                     "path": "Settings -> Translation",
                     "tags": ["language", "country", "translation"]
                 },
