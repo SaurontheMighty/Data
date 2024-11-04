@@ -4,6 +4,18 @@
             "name": "FAQ",
             "items": [
                 {
+                    "q": "How does Family Sharing work?",
+                    "a": "The Pro in-app purchase supports Apple family sharing with up to 5 other family members. Details on how to enable it are available on Apple's websites: apple.com/family-sharing",
+                    "path": "-",
+                    "tags": ["family", "sharing"]
+                },
+                {
+                    "q": "Why is my score not on the leaderboard?",
+                    "a": "To ensure the integrity of the scores on Game Center leaderboards, Move by Move Validation must be turned off for a score to be eligible. Additionally, make sure your device is connected to the internet before you complete the puzzle.",
+                    "path": "Settings -> Move by Move Validation",
+                    "tags": ["leaderboard", "game", "center", "score"]
+                },
+                {
                     "q": "Four notes is not enough, I want nine notes!",
                     "a": "Check out 'More Settings':",
                     "path": "Settings -> Game Settings -> More Settings",
