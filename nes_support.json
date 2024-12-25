@@ -4,6 +4,12 @@
             "name": "FAQ",
             "items": [
                 {
+                    "q": "What does the share text mean?",
+                    "a": "🧇: the top row of the puzzle you solved as a sanity check; ✅: move by move validation; 🪄: highlighter; ✨: auto-highlight; 🧹: auto-clear notes; ",
+                    "path": "-",
+                    "tags": ["share", "text", "waffle", "emoji"]
+                },
+                {
                     "q": "How does Family Sharing work?",
                     "a": "The Pro in-app purchase supports Apple family sharing with up to 5 other family members. Details on how to enable it are available on Apple's websites: apple.com/family-sharing",
                     "path": "-",
@@ -11,8 +17,8 @@
                 },
                 {
                     "q": "Why is my score not on the leaderboard?",
-                    "a": "To ensure the integrity of the scores on Game Center leaderboards, Move by Move Validation must be turned off for a score to be eligible. Additionally, make sure your device is connected to the internet before you complete the puzzle.",
-                    "path": "Settings -> Move by Move Validation",
+                    "a": "If your phone was not connected to the internet when you completed the puzzle it's possible that the score was not submitted. Additionally, you need to tap 'MBMV' in the bottom right of the leaderboard to see scores that used the move by move validation assist.",
+                    "path": "Statistics Tab",
                     "tags": ["leaderboard", "game", "center", "score"]
                 },
                 {
