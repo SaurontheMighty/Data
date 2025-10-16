@@ -4,8 +4,14 @@
             "name": "FAQ",
             "items": [
                 {
-                    "q": "What does the share text mean?",
-                    "a": "🧇: the top row of the puzzle you solved as a sanity check; ✅: move by move validation; 🪄: highlighter; ✨: auto-highlight; 🧹: auto-clear notes; ",
+                    "q": "How do I get hints?",
+                    "a": "Shake your phone for your first hint! Then a genie lamp should appear next to the timer. You can tap that to get more hints.",
+                    "path": "-",
+                    "tags": ["share", "text", "waffle", "emoji"]
+                },
+                {
+                    "q": "What does the text when you tap share mean?",
+                    "a": "🧇: is the top row of the puzzle you solved as a sanity check; ✅: move by move validation; 🪄: highlighter; ✨: auto-highlight; 🧹: auto-clear notes; 😈: speed demon; 🧞: hints.",
                     "path": "-",
                     "tags": ["share", "text", "waffle", "emoji"]
                 },
