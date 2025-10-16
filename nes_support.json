@@ -4,10 +4,16 @@
             "name": "FAQ",
             "items": [
                 {
+                    "q": "How do I change the difficulty?",
+                    "a": "You can choose your difficulty at the top of the Settings page. Then go back to the home screen to start a new game of that difficulty.",
+                    "path": "-",
+                    "tags": ["easy", "medium", "hard", "difficulty"]
+                },
+                {
                     "q": "How do I get hints?",
                     "a": "Shake your phone for your first hint! Then a genie lamp should appear next to the timer. You can tap that to get more hints.",
                     "path": "-",
-                    "tags": ["share", "text", "waffle", "emoji"]
+                    "tags": ["hints", "genie", "lamp"]
                 },
                 {
                     "q": "What does the text when you tap share mean?",
@@ -46,7 +52,7 @@
                     "tags": ["money", "purchase", "evil"]
                 },
                 {
-                    "q": "Can I turn off the little vibrations when I tap things in the game?",
+                    "q": "Can I turn off the vibrations when I tap things in the game?",
                     "a": "Check out 'More Settings':",
                     "path": "Settings -> Game Settings -> More Settings",
                     "tags": ["haptic feedback", "haptic", "vibrations", "vibration", "touch"]
