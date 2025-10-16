@@ -17,7 +17,7 @@
                 },
                 {
                     "q": "What does the text when you tap share mean?",
-                    "a": "🧇: is the top row of the puzzle you solved as a sanity check\n✅: move by move validation; 🪄: highlighter; ✨: auto-highlight; 🧹: auto-clear notes; 😈: speed demon; 🧞: hints.",
+                    "a": "🧇: is the top row of the puzzle you solved as a sanity check\n✅: move by move validation\n🪄: highlighter\n✨: auto-highlight\n🧹: auto-clear notes\n😈: speed demon\n🧞: hints",
                     "path": "-",
                     "tags": ["share", "text", "waffle", "emoji"]
                 },
@@ -35,9 +35,15 @@
                 },
                 {
                     "q": "Four notes is not enough, I want nine notes!",
-                    "a": "Check out 'More Settings':",
-                    "path": "Settings > Game Settings > More Settings",
+                    "a": "Check out Expanded Notes in the Notes Settings.",
+                    "path": "Settings > Notes",
                     "tags": ["9", "notes", "nine", "4"]
+                },
+                {
+                    "q": "I bought Pro but I only want to play one game a day",
+                    "a": "Check out Daily Limit in Advanced Settings.",
+                    "path": "Settings > Advanced",
+                    "tags": ["daily", "one", "limit", "pro"]
                 },
                 {
                     "q": "What is move by move validation?",
@@ -47,14 +53,14 @@
                 },
                 {
                     "q": "Why can I only play one game a day?",
-                    "a": "An app takes a ton of time and energy to build and maintain. I've spent 200+ hours of my free time on this app. Unlimited games is only a small one-time purchase and helps support development of the app.",
+                    "a": "An app takes a ton of time and energy to build and maintain. Unlimited games is a small one-time purchase and helps support development of the app.",
                     "path": "-",
                     "tags": ["money", "purchase", "evil"]
                 },
                 {
                     "q": "Can I turn off the vibrations when I tap things in the game?",
-                    "a": "Check out 'More Settings':",
-                    "path": "Settings > Game Settings > More Settings",
+                    "a": "Check out Haptic Feedback in Advanced Settings",
+                    "path": "Settings > Advanced",
                     "tags": ["haptic feedback", "haptic", "vibrations", "vibration", "touch"]
                 },
                 {
