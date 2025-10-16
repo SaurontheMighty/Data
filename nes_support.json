@@ -17,7 +17,7 @@
                 },
                 {
                     "q": "What does the text when you tap share mean?",
-                    "a": "🧇: is the top row of the puzzle you solved as a sanity check; ✅: move by move validation; 🪄: highlighter; ✨: auto-highlight; 🧹: auto-clear notes; 😈: speed demon; 🧞: hints.",
+                    "a": "🧇: is the top row of the puzzle you solved as a sanity check\n✅: move by move validation; 🪄: highlighter; ✨: auto-highlight; 🧹: auto-clear notes; 😈: speed demon; 🧞: hints.",
                     "path": "-",
                     "tags": ["share", "text", "waffle", "emoji"]
                 },
@@ -36,13 +36,13 @@
                 {
                     "q": "Four notes is not enough, I want nine notes!",
                     "a": "Check out 'More Settings':",
-                    "path": "Settings -> Game Settings -> More Settings",
+                    "path": "Settings > Game Settings > More Settings",
                     "tags": ["9", "notes", "nine", "4"]
                 },
                 {
                     "q": "What is move by move validation?",
                     "a": "Move by move validation will check each move you make and compare it to the solution. If it's wrong, the box turns red.",
-                    "path": "Settings -> Move by Move Validation",
+                    "path": "Settings > Move by Move Validation",
                     "tags": ["move by move", "help", "valid", "red"]
                 },
                 {
@@ -54,19 +54,19 @@
                 {
                     "q": "Can I turn off the vibrations when I tap things in the game?",
                     "a": "Check out 'More Settings':",
-                    "path": "Settings -> Game Settings -> More Settings",
+                    "path": "Settings > Game Settings > More Settings",
                     "tags": ["haptic feedback", "haptic", "vibrations", "vibration", "touch"]
                 },
                 {
                     "q": "When's the app going to get translated into other languages?",
                     "a": "If you would like to help translate Not Evil Sudoku to your language, please contact me at sudoku@notevil.app",
-                    "path": "Settings -> Translation",
+                    "path": "Settings > Translation",
                     "tags": ["language", "country", "translation"]
                 },
                 {
                     "q": "Have another question or feature request?",
                     "a": "Shoot me an email: sudoku@notevil.app or tweet @NotEvilSudoku.",
-                    "path": " Settings -> Send Feedback",
+                    "path": " Settings > Send Feedback",
                     "tags": ["feature", "feedback", "bug"]
                 }
             ]
@@ -77,7 +77,7 @@
                 {
                     "q": "I bought a purchase but I can't see it in the app. What's going on?",
                     "a": "The app refreshes your purchases every time you restart so restarting the app should fix most issues. To restart the app simply swipe up halfway (or tap home button twice) and remove it from your app history. Then open the app.",
-                    "path": "Settings -> Purchases",
+                    "path": "Settings > Purchases",
                     "tags": ["free", "paid", "purchase", "restore", "money"]
                 },
                 {
