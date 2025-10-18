@@ -1,7 +1,7 @@
 {
     "result": [
         {
-            "name": "FAQ",
+            "name": "Gameplay",
             "items": [
                 {
                     "q": "How do I change the difficulty?",
@@ -15,6 +15,29 @@
                     "path": "-",
                     "tags": ["hints", "genie", "lamp"]
                 },
+                {
+                    "q": "Can I turn off the vibrations when I tap things in the game?",
+                    "a": "Check out Haptic Feedback in Advanced Settings",
+                    "path": "Settings > Advanced",
+                    "tags": ["haptic feedback", "haptic", "vibrations", "vibration", "touch"]
+                },
+                {
+                    "q": "Four notes is not enough, I want nine notes!",
+                    "a": "Check out Expanded Notes in the Notes Settings.",
+                    "path": "Settings > Notes",
+                    "tags": ["9", "notes", "nine", "4"]
+                },
+                {
+                    "q": "What is move by move validation?",
+                    "a": "Move by move validation will check each move you make and compare it to the solution. If it's wrong, the box turns red.",
+                    "path": "Settings > Move by Move Validation",
+                    "tags": ["move by move", "help", "valid", "red"]
+                }
+            ]
+        },
+        {
+            "name": "FAQ",
+            "items": [
                 {
                     "q": "What does the text when you tap share mean?",
                     "a": "🧇: is the top row of the puzzle you solved as a sanity check\n✅: move by move validation\n🪄: highlighter\n✨: auto-highlight\n🧹: auto-clear notes\n😈: speed demon\n🧞: hints",
@@ -32,36 +55,6 @@
                     "a": "If your phone was not connected to the internet when you completed the puzzle it's possible that the score was not submitted. Additionally, you need to tap 'MBMV' in the bottom right of the leaderboard to see scores that used the move by move validation assist.",
                     "path": "Statistics Tab",
                     "tags": ["leaderboard", "game", "center", "score"]
-                },
-                {
-                    "q": "Four notes is not enough, I want nine notes!",
-                    "a": "Check out Expanded Notes in the Notes Settings.",
-                    "path": "Settings > Notes",
-                    "tags": ["9", "notes", "nine", "4"]
-                },
-                {
-                    "q": "I bought Pro but I only want to play one game a day",
-                    "a": "Check out Daily Limit in Advanced Settings.",
-                    "path": "Settings > Advanced",
-                    "tags": ["daily", "one", "limit", "pro"]
-                },
-                {
-                    "q": "What is move by move validation?",
-                    "a": "Move by move validation will check each move you make and compare it to the solution. If it's wrong, the box turns red.",
-                    "path": "Settings > Move by Move Validation",
-                    "tags": ["move by move", "help", "valid", "red"]
-                },
-                {
-                    "q": "Why can I only play one game a day?",
-                    "a": "An app takes a ton of time and energy to build and maintain. Unlimited games is a small one-time purchase and helps support development of the app.",
-                    "path": "-",
-                    "tags": ["money", "purchase", "evil"]
-                },
-                {
-                    "q": "Can I turn off the vibrations when I tap things in the game?",
-                    "a": "Check out Haptic Feedback in Advanced Settings",
-                    "path": "Settings > Advanced",
-                    "tags": ["haptic feedback", "haptic", "vibrations", "vibration", "touch"]
                 },
                 {
                     "q": "When's the app going to get translated into other languages?",
@@ -87,10 +80,16 @@
                     "tags": ["free", "paid", "purchase", "restore", "money"]
                 },
                 {
-                    "q": "How is the pricing for different regions decided?",
-                    "a": "I set the price for the United States, and Apple sets the prices for the rest of the world based on the US price.",
-                    "path": "",
-                    "tags": ["price", "locale", "region", "inflation", "country"]
+                    "q": "Why can I only play one game a day?",
+                    "a": "An app takes a ton of time and energy to build and maintain. Unlimited games is a small one-time purchase and helps support development of the app.",
+                    "path": "-",
+                    "tags": ["money", "purchase", "evil"]
+                },
+                {
+                    "q": "I bought Pro but I only want to play one game a day",
+                    "a": "Check out Daily Limit in Advanced Settings.",
+                    "path": "Settings > Advanced",
+                    "tags": ["daily", "one", "limit", "pro"]
                 }
             ]
         }
